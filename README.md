@@ -4,7 +4,7 @@ This project is a **Hadoop MapReduce** implementation that processes a dataset o
 
 ## 📌 Features
 - Uses **Hadoop MapReduce** to process large-scale transaction data.
-- Extracts and counts different payment methods.
+- Extracts and counts different payment methods in purchases.txt [https://s3-eu-west-1.amazonaws.com/insat.lilia.bigdata.bucket/data/purchases.txt]
 - Outputs the total number of transactions per payment type.
 
 ---
